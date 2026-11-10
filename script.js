@@ -18,3 +18,9 @@ faqItems.forEach((item) => {
     });
 
 });
+const myButton = document.querySelector(".get-started");
+
+myButton.addEventListener("click", () =>{
+    window.location.href = '#feature';
+
+});
