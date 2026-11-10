@@ -182,12 +182,12 @@ button#explore-feature{
     background: #fff;
 }
 
-.feature-heading{
+.section-heading{
     text-align: center;
     margin: 0 auto 55px;
 }
 
-.feature-tag{
+.section-tag{
     font-size: 13px;
     font-weight: bold;
     color: #7655e8;
